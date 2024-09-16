@@ -10,5 +10,5 @@ edition = "2018"
 [dependencies]
 
 [build-dependencies]
-bindgen = "0.52.0"
+bindgen = "0.70.1"
 lazy_static = "1.4.0"
